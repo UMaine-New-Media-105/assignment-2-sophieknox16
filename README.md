@@ -1,6 +1,9 @@
 # assignment-2-sophieknox16
 assignment-2-sophieknox16 created by GitHub Classroom
 # Question 1
+
+
+# Question 2
 Link: https://editor.p5js.org/Sophiek/sketches/Lvsw2biLS 
 
 I creaded a star using points and lines 
